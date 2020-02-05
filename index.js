@@ -27,3 +27,6 @@ const titleCased = () => {
   }).join(' ');
 });
 }
+// another way 
+
+
